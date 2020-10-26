@@ -1,0 +1,26 @@
+{
+  "name": "free-walk",
+  "version": "1.0.0",
+  "description": "Free Walk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suresharam/free-walk.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "Algorithms",
+    "Data",
+    "Structures"
+  ],
+  "author": "suriram.sam@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suresharam/free-walk/issues"
+  },
+  "homepage": "https://github.com/suresharam/free-walk#readme"
+}
